@@ -1,0 +1,1 @@
+this is a slider project, that can on slide manually by clicking the sllide icons
